@@ -1,0 +1,8 @@
+[
+  {
+    "name": "product_1",
+    "vendor": "vendor_1",
+    "price": 1000.50,
+    "expiration_date": "01-08-2021"
+  }
+]
